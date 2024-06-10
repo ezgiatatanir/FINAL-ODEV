@@ -15,6 +15,6 @@ Responsive Design: The application is fully responsive, ensuring a smooth user e
 Search Functionality: A robust search function allows users to quickly find movies,  and celebrities within the database.
 
 ![image](https://github.com/ezgiatatanir/FINAL-ODEV/assets/104724468/9e4bd48f-b1d8-440f-9ec2-a47dcb7c8c47)
-In this image i cannot upload ı think ı have a nmp install ıssues maybe version of the npm install.
+In this image i cannot deploy the website  ı think ı have a nmp install ıssues maybe version of the npm install.
 ![image](https://github.com/ezgiatatanir/FINAL-ODEV/assets/104724468/2960efc3-5d44-4bcd-82fc-f62d43250287)
 
